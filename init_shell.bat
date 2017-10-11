@@ -1,1 +1,1 @@
-"C:\Program Files\MongoDB\Server\3.0\bin\mongo.exe" "init_mongo.js"
+"E:\Program Files\MongoDB\Server\3.4\bin\mongo.exe" "init_mongo.js"
