@@ -1,6 +1,6 @@
 :PUBLIC
 @ECHO PUBLIC PATH
-start "" "C:\Program Files\MongoDB\Server\3.0\bin\mongod.exe" --dbpath "C:\Users\Public\mongodb\db" --auth
+start "" "E:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath "E:\data\db" --auth
 GOTO END
 
 :END
